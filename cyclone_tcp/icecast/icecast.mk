@@ -1,7 +1,3 @@
-CYCLONETCPSRC += $(CYCLONETCP)/cyclone_tcp/ipv4/arp.c \
-				 $(CYCLONETCP)/cyclone_tcp/ipv4/icmp.c \
-				 $(CYCLONETCP)/cyclone_tcp/ipv4/igmp.c \
-				 $(CYCLONETCP)/cyclone_tcp/ipv4/ipv4.c \
-				 $(CYCLONETCP)/cyclone_tcp/ipv4/ipv4_frag.c
+CYCLONETCPSRC += $(CYCLONETCP)/cyclone_tcp/ipv4/icecast_client.c \
 				 
-CYCLONETCPINC += $(CYCLONETCP)/cyclone_tcp/ipv4/
+CYCLONETCPINC += $(CYCLONETCP)/cyclone_tcp/icecast/
