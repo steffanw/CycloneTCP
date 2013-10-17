@@ -5,4 +5,4 @@ CYCLONETCPSRC += $(CYCLONETCP)/cyclone_tcp/common/datetime.c \
 				 $(CYCLONETCP)/cyclone_tcp/common/resource_manager.c \
 				 $(CYCLONETCP)/cyclone_tcp/common/str.c 
 
-CYCLONETCPINC += $(CYCLONETCP)/cyclone_tcp/common/
+CYCLONETCPINC += $(CYCLONETCP)/cyclone_tcp/common/ 
